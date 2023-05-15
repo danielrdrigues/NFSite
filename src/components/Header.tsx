@@ -8,13 +8,13 @@ function Header(){
     return (
         <Nav defaultActiveKey="#" as="ul">
   <Nav.Item as="li">
-    <Nav.Link href="#">Discord</Nav.Link>
+    <Nav.Link href="https://discord.gg/nafaixa">Discord</Nav.Link>
   </Nav.Item>
   <Nav.Item as="li">
-    <Nav.Link eventKey="link-1">Jogar</Nav.Link>
+    <Nav.Link href="https://cfx.re/join/j6vp34">Jogar</Nav.Link>
   </Nav.Item>
   <Nav.Item as="li">
-    <Nav.Link eventKey="link-2">Instagram</Nav.Link>
+    <Nav.Link href="https://www.instagram.com/nafaixagg/">Instagram</Nav.Link>
   </Nav.Item>
 </Nav>
     )
